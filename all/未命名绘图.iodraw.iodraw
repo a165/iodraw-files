@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-34" value="灵魂沙" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-220" width="80" height="50" as="geometry" />
+          <mxGeometry x="-80" y="-170" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8T7_C0KkGepqZ7ipolqA-35" target="8T7_C0KkGepqZ7ipolqA-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,14 +87,6 @@
         <mxCell id="8T7_C0KkGepqZ7ipolqA-35" value="洗涤" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="-210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8T7_C0KkGepqZ7ipolqA-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8T7_C0KkGepqZ7ipolqA-39" target="8T7_C0KkGepqZ7ipolqA-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="50" y="-250" />
-              <mxPoint x="190" y="-250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-39" value="缠魂" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-330" width="80" height="80" as="geometry" />
         </mxCell>
@@ -103,6 +95,9 @@
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-41" value="沙子" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dhIp0D2a9R8HsDOaFF32-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8T7_C0KkGepqZ7ipolqA-44" target="8T7_C0KkGepqZ7ipolqA-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-44" value="粉碎轮" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-575" width="80" height="80" as="geometry" />
