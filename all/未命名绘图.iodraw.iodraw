@@ -37,15 +37,10 @@
             <mxPoint x="690" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dhIp0D2a9R8HsDOaFF32-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8T7_C0KkGepqZ7ipolqA-11" target="8T7_C0KkGepqZ7ipolqA-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="-180" />
-              <mxPoint x="830" y="-180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dhIp0D2a9R8HsDOaFF32-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8T7_C0KkGepqZ7ipolqA-11" target="8T7_C0KkGepqZ7ipolqA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhIp0D2a9R8HsDOaFF32-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8T7_C0KkGepqZ7ipolqA-11" target="8T7_C0KkGepqZ7ipolqA-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-11" value="洗涤" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
