@@ -126,13 +126,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-48" value="圆石" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="334" y="-1120" width="80" height="50" as="geometry" />
+          <mxGeometry x="310" y="-710" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8T7_C0KkGepqZ7ipolqA-49" target="8T7_C0KkGepqZ7ipolqA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-49" value="粉碎轮" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1060" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="-680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-53" value="金粒" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="400" width="80" height="50" as="geometry" />
