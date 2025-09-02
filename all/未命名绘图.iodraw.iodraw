@@ -76,6 +76,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dhIp0D2a9R8HsDOaFF32-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8T7_C0KkGepqZ7ipolqA-35" target="8T7_C0KkGepqZ7ipolqA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8T7_C0KkGepqZ7ipolqA-35" value="洗涤" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="-240" width="80" height="80" as="geometry" />
         </mxCell>
